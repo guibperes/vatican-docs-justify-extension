@@ -1,0 +1,19 @@
+{
+  "name": "vatican-justify-extension",
+  "version": "1.0.0",
+  "description": "Google Chrome extension to format Vatican documents paragraphs into text justify alignment to a better reading.",
+  "author": "Guilherme Beidaki Peres <guibperes@proton.me>",
+  "license": "MIT",
+  "homepage": "https://github.com/guibperes/vatican-docs-justify-extension#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guibperes/vatican-docs-justify-extension.git"
+  },
+  "bugs": {
+    "url": "https://github.com/guibperes/vatican-docs-justify-extension/issues"
+  },
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
